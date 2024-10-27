@@ -609,8 +609,8 @@ european:11
 helped:11
 offer:11
 personality:11
-personality	international:9
 personality	alt:9
+personality	international:9
 personality	510:9
 personality	510	international:9
 practitioner:11
@@ -8572,8 +8572,6 @@ table:12
 risks:12
 steroid:12
 eau:12
-eau	wisconsin:11
-claire	eau	wisconsin:11
 eau	absurd:11
 eau	absurd	wisconsin:10
 claire	eau	absurd	wisconsin:10
@@ -8602,6 +8600,8 @@ eau	wishes	patently:11
 claire	eau	wishes	patently:11
 absurd	eau	wishes	patently:11
 claire	absurd	eau	wishes	patently:11
+eau	wisconsin:11
+claire	eau	wisconsin:11
 eau	claire:12
 philosopher:12
 philosopher	wisconsin:10
@@ -9497,8 +9497,8 @@ international:16
 international	means:9
 international	communications:9
 means	international	communications:9
-international	guest:9
 international	action:9
+international	guest:9
 professional:16
 1993apr19:16
 ill:16
